@@ -1,4 +1,7 @@
 {
   "version": "26.0408",
-  "download": "https://raw.githubusercontent.com/hknylmz-wow/wowtr-client/main/WoWTR.zip"
+  "download": "https://raw.githubusercontent.com/hknylmz-wow/wowtr-client/main/WoWTR.zip",
+  "client_version": "1.0.0",
+  "client_download": "https://raw.githubusercontent.com/hknylmz-wow/wowtr-client/main/WoWTR_Launcher.exe",
+  "fonts_url": "https://raw.githubusercontent.com/hknylmz-wow/wowtr-client/main/wowtr_fonts.zip"
 }
